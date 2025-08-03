@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+venv/
+
+# VSCode
+.vscode/
+.settings/
+
+# PyInstaller
+dist/
+build/
+*.spec
