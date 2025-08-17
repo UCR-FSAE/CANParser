@@ -1,0 +1,16 @@
+timestamp,message_name,can_id,Motor_Temp,Motor_Angle,Motor_Speed,Motor_Direction,Enable_State,Error_Flag,DC_Bus_Voltage,DC_Bus_Current,AC_Power,Controller_Temp,Command_Torque,Actual_Torque,Torque_Limit,Fault_Code,Warning_Code,Max_Speed,Max_Torque,Max_Current,Max_Voltage,Battery_Voltage,Battery_Current,Battery_SOC,Battery_Temp,Charging_State
+1640995200.0,Motor_Status_1,0xa0,6105.0,6400.0,1.0,Forward,Disabled,No Error,,,,,,,,,,,,,,,,,,
+1640995200.1,Motor_Status_2,0xa1,,,,,,,5018.5,-1817.7,7040.0,-40.0,,,,,,,,,,,,,,
+1640995200.1,Motor_Status_1,0xa0,6207.400000000001,6400.0,4097.0,Forward,Disabled,No Error,,,,,,,,,,,,,,,,,,
+1640995200.2,Motor_Status_3,0xa2,,,,,,,,,,,1843.1999999999998,742.3000000000002,3686.5,0.0,0.0,,,,,,,,,
+1640995200.2,Motor_Status_2,0xa1,,,,,,,5069.700000000001,-1766.5,7104.0,-40.0,,,,,,,,,,,,,,
+1640995200.2,Motor_Status_1,0xa0,6309.8,6400.0,8193.0,Forward,Disabled,No Error,,,,,,,,,,,,,,,,,,
+1640995200.3,Motor_Limits,0xa3,,,,,,,,,,,,,,,,28695.0,3483.5,413.5,0.0,,,,,
+1640995200.3,Motor_Status_3,0xa2,,,,,,,,,,,1894.4000000000005,793.5,3712.1000000000004,0.0,0.0,,,,,,,,,
+1640995200.4,Battery_Status,0xa4,,,,,,,,,,,,,,,,,,,,409.75,-793.6999999999998,50.0,6105.0,Not Charging
+1640995200.4,Motor_Status_2,0xa1,,,,,,,5120.900000000001,-1715.3000000000002,7168.0,-40.0,,,,,,,,,,,,,,
+1640995200.5,Motor_Status_1,0xa0,6412.200000000001,6400.0,12289.0,Forward,Disabled,No Error,,,,,,,,,,,,,,,,,,
+1640995200.6,Motor_Status_2,0xa1,,,,,,,5172.1,-1664.1000000000001,7232.0,-40.0,,,,,,,,,,,,,,
+1640995200.7,Motor_Status_3,0xa2,,,,,,,,,,,1945.6000000000004,844.6999999999998,3737.7000000000003,0.0,0.0,,,,,,,,,
+1640995200.8,Motor_Status_1,0xa0,-38.9,6400.0,16385.0,Forward,Disabled,No Error,,,,,,,,,,,,,,,,,,
+1640995200.9,Battery_Status,0xa4,,,,,,,,,,,,,,,,,,,,414.87,-742.5,50.5,6130.6,Not Charging
